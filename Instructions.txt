@@ -1,0 +1,8 @@
+Instructions:
+
+Press ENTER to go to next screen
+Press C for vehicles to enter
+Press G for Green signal (vehicles move)
+Press R for Red signal (vehicles stop)
+Press D for Day
+Press N for Night
